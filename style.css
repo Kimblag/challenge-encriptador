@@ -193,6 +193,11 @@ main {
     background: #FFFFFF;
 }
 
+#copiar:hover {
+    background: #0A3871;
+    color: #FFFFFF;
+}
+
 footer {
     background: #E9ECF8;
     text-align: center;
@@ -344,6 +349,7 @@ footer a {
         font-size: 20px;
     }
 }
+
 @media screen and (max-width: 320px) {
 
     .navegacion h1,
@@ -421,7 +427,7 @@ footer a {
         font-size: 20px;
     }
 
-    footer p{
+    footer p {
         font-size: 12px;
     }
 }
